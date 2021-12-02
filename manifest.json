@@ -1,0 +1,10 @@
+{
+  "short_name": "Evgeny Kovzel",
+  "name": "Evgeny Kovzel Website",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
